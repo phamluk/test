@@ -3,7 +3,7 @@ resources:
 - name: script
   type: git
   source:
-    uri: https://github.com/phamluk/resource.git
+    uri: https://github.com/phamluk/test.git
     branch: master
 
 jobs:
