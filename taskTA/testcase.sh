@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello world'
+ta execute -ls "lgvn14254:14101" -rep "ANG Desktop Local" -prj "HTML" -u "tung.vo" -p "0484862584D" -t "/BUILT-IN ACTIONS/User Interface Actions/z.Docker on Ubuntu/2. Operator Actions for Docker/TextBox/check pattern in text/POS - Textbox - check pattern in text" -rs "192.168.167.59:53400" -c "localhost:53600" -kwd "html,linux,chrome,headless" -udf "build number=;Build=" -r "POS - Textbox - check pattern in text" -up "/HTML/Results/concourse" -tscript "{INSTALL_DIR}/binclient/taplayback.sh" -tpath "{INSTALL_DIR}/binclient/taplayback.sh"
