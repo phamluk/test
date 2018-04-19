@@ -13,4 +13,4 @@ jobs:
   - get: script
     trigger: true
   - task: do_testcase
-    file: script/taskTA/TA.yml
+    file: ./script/taskTA/TA.yml
